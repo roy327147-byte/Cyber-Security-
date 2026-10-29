@@ -1,6 +1,6 @@
 # cybersecurity
 
-# cybersecurity Internship SAM AI Technologies  
+# cybersecurity 
 
 
 
